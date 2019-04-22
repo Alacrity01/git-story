@@ -1,1 +1,3 @@
-Here's a story of a guy who started a coding bootcamp. The first day went very well. The pace felt good but could have gone slightly faster.And then out of nowhere, he added another sentence to the story using the bash command echo
+Here's a story of a guy who started a coding bootcamp. The first day went very well. The pace felt good but could have gone slightly faster.And then out of nowhere, he added another sentence to the story using the bash command echo.
+
+Then he opened the file using "open story.txt" in the terminal. This was easier than using echo >> to add text to the file. He used command + S and wasn't sure if that was cheating.
