@@ -2,5 +2,12 @@ Here's a story of a guy who started a coding bootcamp. The first day went very w
 
 Then he opened the file using "open story.txt" in the terminal. This was easier than using echo >> to add text to the file. He used command + S and wasn't sure if that was cheating.
 
-This was all good practice but he needed more.\nThe next morning he was back at it again, coding and tracking changes with Git and uploading them to GitHub using Bash commands.
-\nHe wasn't sure if the slash-n would create a new line as he hoped. He tried it once more for practice without verifying that it worked.
+This was all good practice but he needed more.
+
+The next morning he was back at it again, coding and tracking changes with Git and uploading them to GitHub using Bash commands.
+
+He wasn't sure if the slash-n would create a new line as he hoped. He tried it once more for practice without verifying that it worked.
+
+\n did not work as he expected from the Bash command echo. For editing a story, opening the file is more efficient and precise.
+
+
